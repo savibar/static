@@ -1,0 +1,2 @@
+# static
+Created with CodeSandbox
